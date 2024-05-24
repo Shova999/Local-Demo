@@ -166,20 +166,20 @@ int main(){
 
 // Practice - 1
 // ----------------------------------
-#include<stdio.h>
-#include<math.h>
-int main(){
-    char ch;
-    int i,j;
-    ch='*';
-    for(i=1;i<=4;i++){
-        for(j=1;j<=5;j++){
-            printf("%c",ch);
-        }
-        printf("%c\n",ch);
-    }
-    return 0;
-}
+//#include<stdio.h>
+// #include<math.h>
+// int main(){
+//     char ch;
+//     int i,j;
+//     ch='*';
+//     for(i=1;i<=4;i++){
+//         for(j=1;j<=5;j++){
+//             printf("%c",ch);
+//         }
+//         printf("%c\n",ch);
+//     }
+//     return 0;
+// }
 
 // Chapter - 5 (function & recursion)
 
